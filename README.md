@@ -1,3 +1,6 @@
+![Banner](https://github.com/Mariapodg/Mariapodg/blob/main/1676054415245.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Maria Paula Pardo</h1>
 <h4 align="center">👩‍💼 Hello! I'm an industrial engineer passionate about quality and efficiency in software development. As a Quality Assurance (QA) professional, my focus is on ensuring excellence and reliability in applications through rigorous testing. </h4>
 
